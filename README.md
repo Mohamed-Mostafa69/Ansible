@@ -104,5 +104,3 @@ Execution should be successful without errors:
 
 ```
 ```
-# Ansible
-# Ansible
